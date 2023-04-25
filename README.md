@@ -1,2 +1,2 @@
 # clicker
-Desarrolle un modelo de regresión logística 
+Desarrolle un modelo de regresión logística que prediga la probabilidad de convertirse en un clicker en función de características personales como la edad y el sexo, el tipo de vecindario en el que vive la gente y los suministros de emergencia disponibles. Practique pruebas bivariadas como chi-cuadrado y prueba t para identificar las variables más relevantes para el modelo, desarrolle y ejecute el modelo, verifique los supuestos del modelo y use el modelo para predecir la probabilidad de convertirse en un zombi para amigos, familiares e incluso ¡tú mismo!
